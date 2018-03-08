@@ -7,4 +7,5 @@ function accessElementInArray()
 function destructivelyRemoveElementFromBeginningOfArray()
 function removeElementFromBeginningOfArray()
 function destructivelyRemoveElementFromEndOfArray()
-function 
+function removeElementFromEndOfArray ()
+
